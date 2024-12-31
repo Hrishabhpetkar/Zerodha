@@ -1,0 +1,133 @@
+main{
+    padding-top: 130px;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+}
+
+.invest{
+    text-align: center;
+    font-family: Arial;
+}
+
+h1{
+    font-size: 45px;
+    color: #484242;
+    margin-bottom: -3px;
+    font-family: Arial;
+}
+
+h2{
+    font-size: 21px;
+    font-weight: lighter;
+    color: #666;
+    font-family: Arial;
+}
+
+button{
+    font-size: 23px;
+    border-radius: 3px;
+    background-color:#387ED1;
+    padding: 10px 25px 10px 25px;
+    margin-top: 25px;
+    color: white;
+    border-color: #387ED1;
+    
+}
+.btn{
+    text-align: center;
+    
+}
+
+.customr{
+    margin-bottom: 12px;
+}
+
+h3{
+    color: #666;
+    width: 420px;
+    font-weight: lighter;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+.ecostm{
+    display: flex;
+    padding: 50px;
+    margin-left: 150px;
+}
+
+.explr{
+    font-size: 16px;
+    font-family: Arial;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.press-logo{
+    text-align: center;
+}
+
+.pricing{
+    display: flex;
+    padding-left: 211px;
+    padding-right: 260px;
+    padding-top: 57px;
+
+}
+
+.unbeatprice{
+    width: 500px;
+    padding-right: 21px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #666;
+}
+
+.unbeatprice > h1{
+    font-weight: lighter;
+}
+
+
+.pricelogo{
+    display: flex;
+    padding-top: 31px;
+}
+
+.pricelogo > p {
+    padding-top: 50px;
+    font-size: 10px;
+    font-family: Arial;
+    color: #666;
+}
+
+.varsity{
+    display: flex;
+    padding: 140px;
+}
+
+.free{
+    padding-left: 120px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #666;
+    width: 36%;
+
+
+}
+
+.free > h1{
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.open{
+    text-align: center;
+    font-family: Arial;
+    font-size: 17px;
+    color: #666;
+    border-bottom: 1px solid #ECECEC;
+    padding-bottom: 103px;
+}

@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-top: 23px;
+    border-bottom: 1px solid #ECECEC;
+    width: 1169px;
+    position: fixed;
+    background-color: #FFF;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-top: -6PX;
+    font-family: Arial;
+    color: #686868;
+    padding-left: 10px;
+}
+
+li{
+    display: flex;
+    padding-right: 60px;
+    cursor: pointer;
+    margin-left: -5px;
+    margin-top: 9px;
+}
+
+img{
+    cursor: pointer;
+}
+
+.second{
+    margin-left: 1px;
+}

@@ -1,0 +1,27 @@
+.footer-info{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    padding-left:120px;
+    padding-right:120px;
+    padding-top:11px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 45px;
+}
+
+h2{
+    color: #484242;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #666;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+#img{
+    cursor: pointer;
+}
+
